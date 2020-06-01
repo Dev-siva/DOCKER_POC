@@ -1,0 +1,4 @@
+git --version
+git network ls
+git network inspect 
+git network create --driver=bridge <Name of the custom network>
